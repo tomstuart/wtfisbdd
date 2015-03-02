@@ -43,3 +43,14 @@ p {
 ul {
   margin: 1em;
 }
+
+.todo {
+  display: inline-block;
+  padding: 3px 7px;
+  background: red;
+  color: white;
+  -moz-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+}
