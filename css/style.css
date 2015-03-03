@@ -21,6 +21,10 @@ article {
   background: white;
 }
 
+section {
+  margin: 2em 0;
+}
+
 h1, h2 {
   line-height: 1;
   font-weight: 700;
